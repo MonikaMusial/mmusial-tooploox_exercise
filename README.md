@@ -1,1 +1,1 @@
-# mmusial-tooploox_exercise
+Exercise for the recruitment purposes. Author: Monika Musiał
